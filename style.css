@@ -515,11 +515,13 @@ body {
 }
 
 .portfolio .p-icon-images {
-  padding: 12px 0px 0px 12px;
-  margin: -6% 0 0 40%;
+  padding: 12px 0px 0px 10px;
+  margin: 0;
+  top: -30%;
+  left: calc(50% - 28px);
   background-color: #ffffff;
   position: absolute;
-  border-radius: 20px;
+  border-radius: 50%;
 }
 
 .portfolio .p-icon-images img {

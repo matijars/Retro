@@ -1,4 +1,4 @@
-<div align='center'><img style="width:30%" src='./img/Logo.png'/></div>
+<div align='center'><img style="width:20%" src='./img/Logo.png'/></div>
 
 <h2>About the project</h2>
 
